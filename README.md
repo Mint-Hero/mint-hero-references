@@ -1,5 +1,5 @@
-# Mint Hero contracts
-A list of all validated and deployed contracts used by MintHero. This list link to the validated code on the blockchain explorer.
+# Mint Hero references
+A list of all validated and deployed contracts used by MintHero, all links related to Mint Hero and more.
 
 
 ## Cronos mainnet
