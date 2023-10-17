@@ -1,11 +1,13 @@
 # Mint Hero references
-A list of all validated and deployed smart contracts used by MintHero, all links related to Mint Hero and more.
+Explore a comprehensive list of validated and deployed smart contracts utilized by MintHero, along with relevant links and additional resources.
 
 ## Website links
-- [https://testnets.minthero.io/](https://testnets.minthero.io/)
-- [https://app.minthero.io/](https://app.minthero.io/)
-- [https://minthero.io/](https://minthero.io/)
-- [https://docs.minthero.io/](https://docs.minthero.io/)
+- Landing page: [https://minthero.io/](https://minthero.io/)
+- Mainnet app: [https://app.minthero.io/](https://app.minthero.io/)
+- Testnet app: [https://testnets.minthero.io/](https://testnets.minthero.io/)
+- Documentation: [https://docs.minthero.io/](https://docs.minthero.io/)
+- Typedream demo: [https://mintherodemo.typedream.app/](https://mintherodemo.typedream.app/)
+- MintHero demo: [https://app.minthero.io/mint/0x8B5050Ed6306aC1e46902aeB60cCea6Fbe29b95b](https://app.minthero.io/mint/0x8B5050Ed6306aC1e46902aeB60cCea6Fbe29b95b)
 
 ## Cronos mainnet smart contract
 - Deployer for basic mint: [0x735A5b48256ffedBf517C28A844f93F62dAA0A81](https://cronoscan.com/address/0x735A5b48256ffedBf517C28A844f93F62dAA0A81#code)
