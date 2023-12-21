@@ -4,7 +4,6 @@ Explore a comprehensive list of validated and deployed smart contracts utilized 
 ## Website links
 - Landing page: [https://minthero.io/](https://minthero.io/)
 - Mainnet app: [https://app.minthero.io/](https://app.minthero.io/)
-- Testnet app: [https://testnets.minthero.io/](https://testnets.minthero.io/)
 - Documentation: [https://docs.minthero.io/](https://docs.minthero.io/)
 - Typedream demo: [https://mintherodemo.typedream.app/](https://mintherodemo.typedream.app/)
 - MintHero demo: [https://app.minthero.io/mint/0x8B5050Ed6306aC1e46902aeB60cCea6Fbe29b95b](https://app.minthero.io/mint/0x8B5050Ed6306aC1e46902aeB60cCea6Fbe29b95b)
